@@ -238,6 +238,7 @@
 
 main{
     width: 100%;
+    min-width: 850px;
     background-color: rgb(222, 222, 222);
     padding-bottom: 20px;
 }
@@ -335,6 +336,7 @@ main{
 
 .footer1{
     width: 100%;
+    min-width: 850px;
     height: 8vh;
     background-color: #2b3e52;
     display: flex;
