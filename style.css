@@ -349,6 +349,7 @@
 }
 .footer2{
     width: 100%;
+    min-width: 850px;
     height: 70vh;
     background-color: #232F3E;
     color: white;
@@ -419,6 +420,7 @@
 }
 .footer3{
     width: 100%;
+    min-width: 850px;
     height: 35vh;
     background-color: #131A22;
     color: white;
